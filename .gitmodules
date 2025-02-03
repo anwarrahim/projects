@@ -1,3 +1,0 @@
-[submodule "frontend/unit-converter"]
-	path = frontend/unit-converter
-	url = https://github.com/anwarrahim/unit-converter.git
