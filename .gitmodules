@@ -1,0 +1,3 @@
+[submodule "projects/Random-password-generator/Random-password-generator"]
+	path = projects/Random-password-generator/Random-password-generator
+	url = https://github.com/anwarrahim/Random-password-generator.git
